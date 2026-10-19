@@ -2,12 +2,12 @@ Estados: **Borrador** (primera versión), **Base** (acordado), **Refinado** (mej
 
 | Artefacto | Inicio | Elaboración | Construcción | Transición |
 |---|---|---|---|---|
-| Documento de Visión | **Base** | Refinado | — | Final |
-| SRS breve | Borrador | **Base** | Refinado | Final |
-| Casos de uso | Lista | **Base** | Refinado | Final |
-| Diagrama de actividad (proceso crítico) | **Base** | Refinado | — | — |
-| Diagrama de clases | — | **Base** | Refinado | Final |
-| Diagrama de secuencia | — | **Base** | Refinado | — |
-| Diagrama de estados (Cita) | — | Borrador | **Base** | Final |
-| Casos de prueba | — | Borrador | **Base** | Final |
-| Manual de usuario | — | — | Borrador | **Final** |
+| Documento de Visión | Base | Refinado | — | Final |
+| SRS breve | Borrador | Base | Refinado | Final |
+| Casos de uso | Lista | Base | Refinado | Final |
+| Diagrama de actividad (proceso crítico) | Base | Refinado | — | — |
+| Diagrama de clases | Borrador | Base | Refinado | Final |
+| Diagrama de secuencia | Borrador | Base | Refinado | — |
+| Diagrama de estados (Cita) | — | Borrador | Base | Final |
+| Casos de prueba | — | Borrador | Base | Final |
+| Manual de usuario | — | — | Borrador | Final |
