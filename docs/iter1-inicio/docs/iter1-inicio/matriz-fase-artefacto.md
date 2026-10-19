@@ -1,3 +1,4 @@
+|---|---|
 | Artefacto | Inicio | Elaboración | Construcción | Transición |
 | Documento de Visión | Base Refinado | — | Final |
 |SRS breve | Borrador | Base | Refinado | Final |
