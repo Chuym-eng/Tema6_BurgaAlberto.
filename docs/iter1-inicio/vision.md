@@ -12,9 +12,9 @@ inicio de sesión.
 |---|---|
 | Cajero | registra ventas, clientes y genera el comprobante de venta |
 | Almacenero | registra productos e ingresos de mercadería, y controla el inventario y las alertas de stock |
-| Vendedor |  | inicia sesión y busca prendas para atender al cliente |
-| Cliente | | compra las prendas y recibe el comprobante |
-| Proveedor | | suministra la mercadería que luego se registra en el inventario |
+| Vendedor |  inicia sesión y busca prendas para atender al cliente |
+| Cliente |  compra las prendas y recibe el comprobante |
+| Proveedor |  suministra la mercadería que luego se registra en el inventario |
 | Administrador | Recibe reportes acerca de las ventas realizadas |
 ## 5. Objetivos medibles
 - Reducir el tiempo de espera de 8 a 9 minutos hacia 2 a 4 minutos
