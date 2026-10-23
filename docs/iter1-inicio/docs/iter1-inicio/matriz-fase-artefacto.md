@@ -4,7 +4,7 @@ Estados: **Borrador** (primera versión), **Base** (acordado), **Refinado** (mej
 |---|---|---|---|---|
 | Documento de Visión | Base | Refinado | — | Final |
 | SRS breve | Borrador | Base | Refinado | Final |
-| Casos de uso | Borrador (ista) | Base | Refinado | Final |
+| Casos de uso | Borrador (lista) | Base | Refinado | Final |
 | Diagrama de actividad (proceso crítico) | Base | Refinado | — | — |
 | Diagrama de clases | — | Base | Refinado | Final |
 | Diagrama de secuencia | — | Base | Refinado | — |
